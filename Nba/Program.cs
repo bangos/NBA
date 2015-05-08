@@ -11,8 +11,8 @@ namespace Nba
         static void Main(string[] args)
         {
             Console.Write("This is ahhhbbhb test");
-            Console.ReadKey();
-
+     
+            public int i;
         }
     }
 }
